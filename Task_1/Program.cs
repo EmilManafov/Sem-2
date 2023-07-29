@@ -4,7 +4,7 @@
 918 -> 1*/
 
 Console.WriteLine("Введите трёхзначное число: ");
-int num = int.Parse(Console.ReadLine());
+int num = int.Parse(Console.ReadLine()!);
 string str = num.ToString();
 
 if(str.Length == 3) Console.WriteLine($"Вторая цифра числа равна {str[1]}");
