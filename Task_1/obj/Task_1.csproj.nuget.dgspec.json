@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\soopr\\OneDrive\\Рабочий стол\\Sem.2\\Task_1\\Task_1.csproj": {}
+    "C:\\Users\\soopr\\OneDrive\\Рабочий стол\\Sem.2\\Task_1\\Task_1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\soopr\\OneDrive\\Рабочий стол\\Sem.2\\Task_1\\Task_1.csproj": {
+    "C:\\Users\\soopr\\OneDrive\\Рабочий стол\\Sem.2\\Task_1\\Task_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\soopr\\OneDrive\\Рабочий стол\\Sem.2\\Task_1\\Task_1.csproj",
+        "projectUniqueName": "C:\\Users\\soopr\\OneDrive\\Рабочий стол\\Sem.2\\Task_1\\Task_1.csproj",
         "projectName": "Task_1",
-        "projectPath": "c:\\Users\\soopr\\OneDrive\\Рабочий стол\\Sem.2\\Task_1\\Task_1.csproj",
+        "projectPath": "C:\\Users\\soopr\\OneDrive\\Рабочий стол\\Sem.2\\Task_1\\Task_1.csproj",
         "packagesPath": "C:\\Users\\soopr\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\soopr\\OneDrive\\Рабочий стол\\Sem.2\\Task_1\\obj\\",
+        "outputPath": "C:\\Users\\soopr\\OneDrive\\Рабочий стол\\Sem.2\\Task_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\soopr\\AppData\\Roaming\\NuGet\\NuGet.Config"
